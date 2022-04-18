@@ -207,6 +207,7 @@ header {
   justify-content: center;
 }
 .work-list {
+  display: block;
   margin-right: 30px;
 }
 .work-list:last-child {
