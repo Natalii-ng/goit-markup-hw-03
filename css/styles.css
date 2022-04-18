@@ -128,6 +128,7 @@ header {
   display: inline-block;
   border-radius: 4px;
   padding: 6px 22px;
+  min-width: 120px;
 
   color: var(--title-text-color);
   background-color: #f5f4fa;
@@ -135,6 +136,7 @@ header {
   font-size: 16px;
   line-height: 1.6;
   cursor: pointer;
+  text-align: center;
 }
 .portfolio-btn:hover,
 .portfolio-btn:focus {
@@ -145,9 +147,11 @@ header {
   display: inline-block;
   border-radius: 4px;
   padding: 6px 22px;
+  min-width: 73px;
 
   color: var(--primary-white-color);
   background-color: var(--accent-color);
+  text-align: center;
 }
 .button {
   display: inline-block;
